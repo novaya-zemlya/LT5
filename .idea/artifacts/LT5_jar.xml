@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LT5:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LT5_jar</output-path>
+    <root id="archive" name="LT5.jar">
+      <element id="module-output" name="LT5" />
+    </root>
+  </artifact>
+</component>
